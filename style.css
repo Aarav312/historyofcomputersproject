@@ -1,0 +1,20 @@
+body{
+    font-family:helvetica;
+    
+}
+
+#MainTimeLine{
+    font-size: 75px;
+}
+
+.list{
+    font-size:30px;
+   
+}
+.centerTimeLine{
+    text-align:left;
+}
+
+.content{
+font-size:24px;
+	}
